@@ -7,6 +7,7 @@ such as defi, metaverse, nft, mining, dao and others.
 ## Links
 - [Website](https://red-lobster-showcase.link/)
 - [Frontend](https://github.com/jlsachse/ergo-audit-frontend)
+- [OpenAPI](https://red-lobster-showcase.link/docs)
 
 ## Docker
 
