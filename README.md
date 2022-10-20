@@ -15,6 +15,6 @@ Just clone the repository and run the commands below.
 
 ```sh
 cd /ergo-audit-backend
-docker build -t backend .
-docker container run -d -p 8080:8080 --env MONGODB_URI=[MONGO_CONNECTION_STRING] --env MONGODB_DB=[DATABASE]
+docker build -t ergoauditbackend .
+docker container run -d -p [YOUR_PORT]:8080 --env MONGODB_URI=[MONGO_CONNECTION_STRING] --env MONGODB_DB=[DATABASE] ergoauditbackend
 ```
